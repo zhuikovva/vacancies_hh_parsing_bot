@@ -1,0 +1,7 @@
+aiogram==3.20.0.post0
+aiohttp==3.11.18
+asyncpg==0.30.0
+beautifulsoup4==4.13.4
+catboost==1.2.8
+environs==14.2.0
+pandas==2.3.0
