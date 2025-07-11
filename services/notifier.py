@@ -18,7 +18,7 @@ class VacancyNotifier:
         while self.is_running:
             try:
                 users = await self.db.get_all_users()
-                #logger.info(f"[NOTIFIER] Проверяю {len(users)} пользователей")
+                
                 for user in users:
                     chat_id = user['chat_id']
                     last_check = user['last_check']
