@@ -83,6 +83,8 @@ python bot.py
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## 📬 Контакты
-Ваше имя - [@zhuikovva](https://github.com/zhuikovva)  
+[@zhuikovva](https://github.com/zhuikovva)  
+
 TG: @ZhuikovVsevolod
+
 Идеи/предложения: vsevolod1905@yandex.ru
